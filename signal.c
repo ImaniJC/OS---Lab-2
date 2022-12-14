@@ -1,3 +1,4 @@
+// received help from Shane O
 /* hello_signal.c */
 #include <stdio.h>
 #include <stdlib.h>
